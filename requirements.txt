@@ -1,0 +1,10 @@
+langchain == 0.0.339
+python-dotenv
+streamlit
+tiktoken
+faiss-cpu
+protobuf~
+langchain-experimental
+mysql-connector-python
+pymysql
+google-generativeai
