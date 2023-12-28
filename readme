@@ -1,0 +1,10 @@
+Overview: 
+This project is a chat bot application designed to provide answers to frequently asked questions related to banking. The application utilizes the Google Palm text bison model for natural language understanding (NLU) and connects to a SQL database containing FAQs data. The communication between the language model and the database is facilitated through the SQLDatabaseChain in the Langchain Experimental library.
+
+Features:
+- Integration with Google Palm text bison model using API key
+- Connection to a MySQL database for storing and retrieving FAQ data
+- SQLDatabaseChain in Langchain Experimental for seamless interaction between the language model and the database
+- Streamlit for testing the chat bot in a user-friendly interface
+
+
